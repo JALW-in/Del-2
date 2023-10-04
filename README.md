@@ -1,6 +1,10 @@
 # Moment 3 Del 2.1 
 Av Alvin Losköld, 2023
-## Uppgift
+## Uppgift 2.1
+
+Uppgiften går ut på att skapa ett githubkonto och ett repo med en README-fil.
+Här är instuktionerna i en lista:
+
 1. Skapa ett konto på Github (eller använd befinligt, om du redan har ett).
 Gratis-konton räcker utmärkt för uppgiften.
 2. Skapa ett konto på Github (eller använd befinligt, om du redan har ett).
